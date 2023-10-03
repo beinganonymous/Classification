@@ -1,7 +1,6 @@
 aiofiles
 aiohttp
 asyncio
-fastai
 keras
 tensorflow
 tensorflow_hub
@@ -10,4 +9,3 @@ torchvision===0.5.0
 numpy==1.21
 starlette
 uvicorn
-python-multipart
