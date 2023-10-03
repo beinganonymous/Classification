@@ -1,0 +1,13 @@
+aiofiles
+aiohttp
+asyncio
+fastai
+keras
+tensorflow
+tensorflow_hub
+torch===1.4.0
+torchvision===0.5.0
+numpy==1.21
+starlette
+uvicorn
+python-multipart
