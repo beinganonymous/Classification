@@ -10,4 +10,4 @@ COPY app app/
 
 EXPOSE 8080
 
-CMD python app/server.py serve
+CMD python3 app/server.py serve
