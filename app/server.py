@@ -22,7 +22,7 @@ import cv2
 
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1yctEfO7_nTZjvqsR61yp7ZL-0vfljcF3'  # You can put your model URL. If it's too big
-export_file_name = 'models/model.h5'
+export_file_name = '/models/model.h5'
 
 classes = ['good', 'bad']  # You can put your own classes here
 path = Path(__file__).parent
